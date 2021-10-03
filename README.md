@@ -7,7 +7,7 @@ I'm Aryan Choudhary
 -I’m currently learning C++.
 
 
--I’m looking for help with open source.
+-I’m looking for help in open source.
 
 
 
